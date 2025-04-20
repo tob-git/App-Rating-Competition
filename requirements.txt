@@ -7,3 +7,5 @@ wordcloud~=1.9.4
 scikit-learn~=1.6.1
 scipy~=1.15.2
 ipython~=9.1.0
+joblib~=1.4.2
+xgboost~=2.1.1
